@@ -2,7 +2,7 @@ boto3
 fastapi
 fasttext-wheel
 ipykernel
-mlflow
+mlflow==2.19.0
 nbclient
 nbformat
 nltk
